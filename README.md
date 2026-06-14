@@ -1,0 +1,3 @@
+# QuestGecko
+
+Сюжетный NPC.
